@@ -17,7 +17,7 @@
 
 A versão mobile do projeto GoBarber representa a visão da o usuário, ou seja, todas funcionalidades presentes na versão web são para administradores. As funcionalidades para o usuário serão dispostas no aplicativo mobile.
 
-## 🚀 Technologies
+## 🚀 Tecnologias
 
 Tecnologias que eu usei para desenvolver esse cliente móvel
 
